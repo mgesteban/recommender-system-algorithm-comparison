@@ -45,17 +45,28 @@ SVD achieved the lowest RMSE and MAE and provided the best balance of accuracy a
 | KNNBasic       | ~0.95   | ~0.73  | Baseline performance          |
 
 
-Porject Structure
+
+## Project Structure
+
+```
+
+.
 ├── movielens/
-│ ├── ratings.csv
-│ ├── movies.csv
-│ ├── tags.csv
-│ ├── links.csv
-│ └── README.txt
+│   ├── ratings.csv
+│   ├── movies.csv
+│   ├── tags.csv
+│   ├── links.csv
+│   └── README.txt
 ├── notebooks/
-│ └── discussion19_1.ipynb
+│   └── discussion19_1.ipynb
 ├── README.md
 └── requirements.txt
+
+```
+```
+
+Let me know if you want this added directly into your README or formatted differently.
+
 
 
 ## Running the Project
