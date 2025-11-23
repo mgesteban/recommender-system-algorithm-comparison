@@ -65,10 +65,6 @@ SVD achieved the lowest RMSE and MAE and provided the best balance of accuracy a
 ```
 ```
 
-Let me know if you want this added directly into your README or formatted differently.
-
-
-
 ## Running the Project
 
 Install dependencies:
