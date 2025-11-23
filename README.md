@@ -11,7 +11,7 @@ MovieLens ml-latest-small
 - Rating scale: 0.5 to 5.0  
 
 Source: GroupLens Research  
-Dataset documentation included in `rec-movies/README.txt`.
+https://grouplens.org/datasets/movielens/
 
 ## Algorithms Compared
 
